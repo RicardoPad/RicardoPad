@@ -18,10 +18,6 @@ Python | SQL | Power BI | Pandas | scikit-learn | BigQuery | Jupyter NLTK | Look
 🎥 Reduced 200+ monthly reporting errors through data validation @ Cinépolis  
 🔍 Statistical analysis on datasets of 5,000+ observations using Python
 
-## REACH ME📬
-💼 linkedin.com/in/ricardo-padilla-herrera  
-📧 ricardopadillaherrera@gmail.com
-<!--
 **RicardoPad/RicardoPad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
